@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "oci_api",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-08-24T16:59:50.344124Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.0-7.2.beta"
+}

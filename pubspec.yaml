@@ -4,7 +4,8 @@
 
 name: oci_api
 description: An API for accessing OCI components
-
+author: Jeff Davies (kaptkaos@kaptkaos.org)
+repository: https://github.com/jdavies/oci_api
 publish_to: "oci_api" # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
